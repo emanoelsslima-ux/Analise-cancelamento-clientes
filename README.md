@@ -72,7 +72,7 @@ streamlit run app.py
 ### Demonstração do projeto
 
 <p align="center">
-  <img src="assets/DemoClientes.gif.gif" width="800"/>
+  <img src="assets/DemoClientes.gif" width="800"/>
 </p>
 
 ---
