@@ -108,3 +108,11 @@ Projeto desenvolvido para praticar e demonstrar conhecimentos em:
 - Identificação de padrões de comportamento
 - Geração de insights estratégicos
 - Tomada de decisão baseada em dados
+
+## Autor
+
+Victor Emanoel
+
+GitHub: https://github.com/emanoelsslima-ux
+
+LinkedIn: https://www.linkedin.com/in/victorlimapy
